@@ -5,7 +5,7 @@
 ```javascript
 
     // import powerTools
-    import powerTools from '../index.js';
+    import * as powerTools from '../index.js';
 
     // sleep
     powerTools.sleep();

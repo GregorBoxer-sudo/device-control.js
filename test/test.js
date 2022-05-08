@@ -1,3 +1,3 @@
-import powerTools from '../index.js';
+import * as powerTools from '../index.js';
 
-powerTools.sleep();
+console.log(powerTools.getListOfProcesses())
