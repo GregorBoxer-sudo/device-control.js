@@ -1,0 +1,28 @@
+{
+    "name": "power-tools.js",
+    "version": "1.0.0",
+    "description": "lib to control your device",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "node test/test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GregorBoxer-sudo/device-control.js.git"
+    },
+    "keywords": [
+        "device",
+        "hardware",
+        "control",
+        "stats",
+        "shutdown",
+        "reboot"
+    ],
+    "author": "Gregor Katzschner",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/GregorBoxer-sudo/device-control.js/issues"
+    },
+    "homepage": "https://github.com/GregorBoxer-sudo/device-control.js#readme"
+}
